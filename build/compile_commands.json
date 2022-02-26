@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/cc  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/glad.c.o -c /home/abdulmelik/Projects/opengl/C/src/glad.c",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/glad.c"
+},
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/c++  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/main.cpp.o -c /home/abdulmelik/Projects/opengl/C/src/main.cpp",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/main.cpp"
+},
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/c++  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/shader.cpp.o -c /home/abdulmelik/Projects/opengl/C/src/shader.cpp",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/shader.cpp"
+},
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/c++  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/camera.cpp.o -c /home/abdulmelik/Projects/opengl/C/src/camera.cpp",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/camera.cpp"
+},
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/c++  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/box.cpp.o -c /home/abdulmelik/Projects/opengl/C/src/box.cpp",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/box.cpp"
+},
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/c++  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/gameItem.cpp.o -c /home/abdulmelik/Projects/opengl/C/src/gameItem.cpp",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/gameItem.cpp"
+},
+{
+  "directory": "/home/abdulmelik/Projects/opengl/C/build",
+  "command": "/usr/bin/c++  -I/home/abdulmelik/Projects/opengl/C/include  -o CMakeFiles/OpenGLTutorials.dir/src/mesh.cpp.o -c /home/abdulmelik/Projects/opengl/C/src/mesh.cpp",
+  "file": "/home/abdulmelik/Projects/opengl/C/src/mesh.cpp"
+}
+]

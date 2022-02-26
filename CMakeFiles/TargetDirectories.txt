@@ -1,0 +1,3 @@
+/home/abdulmelik/Projects/opengl/C/CMakeFiles/rebuild_cache.dir
+/home/abdulmelik/Projects/opengl/C/CMakeFiles/edit_cache.dir
+/home/abdulmelik/Projects/opengl/C/CMakeFiles/OpenGLTutorials.dir
